@@ -83,14 +83,18 @@ $ node server.js
 
 The project construction was divided into three stages. Initially, I dedicated time to fully comprehend what was being proposed. After this phase, I sought information by exploring documentation and videos to better understand the proposed model.
 
-The implementation presented challenges, mainly because a significant portion of the documentation did not provide the exact information I needed. In videos, I found only one discussing Asin using Python. Nevertheless, I persisted in development, advancing to the practical part of the project. During execution, it's possible that at some point, the message "An error occurred while scraping Amazon" may be displayed, but it's important to highlight that the code is functioning, as demonstrated in the video.
+The implementation presented challenges, mainly because a significant portion of the documentation did not provide the exact information I needed. In videos, I found only one discussing Asin using Python. Nevertheless, I persisted in development, advancing to the practical part of the project. During execution, it's possible that at some point, the message "An error occurred while scraping Amazon (if necessary, restart your PC and view it through Google's incognito tab)" may be displayed, but it's important to highlight that the code is functioning, as demonstrated in the video.
 
 In the third stage, I applied my logic to envision how the results would be returned to the web page after the user entered the product name and ASIN.
 
 ## 💻 Layout Node.js
 
 
-https://github.com/GabrielAlvesGit/AmazonScraperAsinNode.js-/assets/102634725/8d1cbf0b-09e0-4d11-81ab-6e368c9b76ec
+https://github.com/GabrielAlvesGit/AmazonScraperAsinNode.js-/assets/102634725/2273773a-7ceb-49e2-b07d-7c85d8c7eb0c
+
+
+
+
 
 
 
