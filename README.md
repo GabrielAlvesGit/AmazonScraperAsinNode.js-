@@ -88,3 +88,9 @@ The implementation presented challenges, mainly because a significant portion of
 In the third stage, I applied my logic to envision how the results would be returned to the web page after the user entered the product name and ASIN.
 
 ## 💻 Layout Node.js
+
+
+https://github.com/GabrielAlvesGit/AmazonScraperAsinNode.js-/assets/102634725/8d1cbf0b-09e0-4d11-81ab-6e368c9b76ec
+
+
+
